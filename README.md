@@ -1,0 +1,1 @@
+# photospotter-geo-service
